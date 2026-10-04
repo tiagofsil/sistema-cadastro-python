@@ -1,0 +1,4 @@
+*.xlsx
+*.ods
+venv/
+__pycache__/
